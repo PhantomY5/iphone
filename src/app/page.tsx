@@ -4,7 +4,7 @@ import PricingSection from '@/components/layout/PricingSection';
 
 export default function Home() {
   return (
-    <div className="bg-black text-white min-h-screen">
+    <div className="min-h-screen">
       <PromotionalBanner />
       <ProductHero />
       <PricingSection />
